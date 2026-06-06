@@ -1,0 +1,6 @@
+{
+  "name": "Suno Voice Swapper Studio",
+  "description": "A dark-mode 4-step pipeline for audio stem separation, target voice blueprinting, RVC-based voice swapping, and a multi-track mixing console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
